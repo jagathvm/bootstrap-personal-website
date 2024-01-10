@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#textarea {
+    width: 100%;
+}
+
+#btn-submit {
+    background-color: rgb(36, 36, 36);
+    color: white;
+}
+
+.phone, .mail {
+    height: 20px;
+}
+
+.contact {
+    text-decoration: none;
+}
